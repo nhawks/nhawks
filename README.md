@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm G!</h1>
 <h3 align="center">A passionate full-stack software engineer.</h3>
 
-- 🔭 I’m currently working on [eCommerce Web App](https://github.com/nhawks/nextbinge-capstone-frontend)
+- 🔭 I’m currently working on [NextBinge my Solo Capstone](https://github.com/nhawks/nextbinge-capstone-frontend)
 - 👨‍💻 All of my projects are available at [https://nhawks.github.io/](https://nhawks.github.io/)
 
 <h3 align="left">Connect with me:</h3>
